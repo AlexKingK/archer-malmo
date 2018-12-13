@@ -1,0 +1,11 @@
+body {
+	background-color: 000;
+}
+
+.first:hover p, .second:hover p {
+	opacity 1;
+}
+p:hover {
+	background-color: #fff;
+}
+
